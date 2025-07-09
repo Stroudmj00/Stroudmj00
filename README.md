@@ -20,29 +20,33 @@ Industrial Engineer with a Master's in Data Science, specializing in applying si
 ## Portfolio Projects
 
 ### 1. State of Missouri - Cronin Award for Procurement Excellence
-*As a Research and Data Analyst, I was a key member of the team whose work on turnaround time management earned the 2024 NASPO George Cronin Finalist Award for Procurement Excellence. Our initiative transformed the state's procurement operations from transactional chaos to strategic, data-driven management. I was one of the three official presenters on this topic at the NASPO Annual Conference.*
+*As a Data Analyst for the State of Missouri, I spearheaded a data-driven initiative to improve procurement operations. This project earned **4th place in a national showcase** (NASPO Cronin Award Finalist) and was featured on LinkedIn by Governor Parson.*
 
-*We implemented a new process using Smartsheet and Tableau to track and analyze bid timelines against granular goals. This new system, recognized by Governor Mike Parson for creating real, lasting changes, produced significant, measurable improvements:*
-* *The number of overdue bids ("Tableau Reds") was **reduced by 78%**, from 36 to 8, over a 9-month period.*
-* *The overall number of dissatisfied customers (bids behind schedule) **decreased by 62%**.*
+*I designed and deployed a new turnaround time management process using Smartsheet for project management and Tableau for real-time dashboards. This system transformed the division by centralizing project tracking and providing data-driven insights, leading to a **10.6% improvement in procurement turnaround times** and a **73% reduction in administrative time**.*
 
 ▶ **[View the NASPO Conference Presentation PDF](projects/1_State_Of_Missouri_Cronin_Award/Presentation__MissouriCroninAward.pdf)**
 <br>▶ **[View the Official Case Study PDF](projects/1_State_Of_Missouri_Cronin_Award/Paper__Operational%20Improvement%20Through%20Turnaround%20Time%20Management.pdf)**
 
-### 2. Healthcare Patient Flow Simulation
-*Led a capstone team to build a high-fidelity Simio simulation of the University of Missouri Hospital, modeling 16 service lines to identify patient flow bottlenecks. The model served as a low-cost, low-risk tool for executives to test high-stakes strategic decisions, such as changes in discharge times or responses to increased patient demand.*
+### 2. Healthcare Patient Flow Simulation (Best ISE Capstone)
+*As a capstone team lead, I engineered a predictive Simio model that forecasted Emergency Room bed shortages for University of Missouri Health Care. This high-fidelity simulation served as a low-cost, low-risk tool for executives to test high-stakes strategic decisions. This work was recognized as the **Best 2023 ISE Capstone Project**.*
 <br>▶ **[View Full Presentation PDF](projects/2_Healthcare_Patient_Flow_Simulation/Presentation__MUHC%20Throughput%20Simulation.pdf)**
 
-### 3. Operating Room Optimization
-*An award-winning research project using FlexSim and a binary search algorithm to optimize OR scheduling, maximizing utilization while adhering to ethical constraints. The goal was to find the most effective configuration for a surgical floor by balancing performance metrics against staff overtime. The final recommended configuration achieved **78% OR utilization with zero median staff overtime**. This work was formally presented at an IISE regional conference.pdf, page 12].*
-<br>▶ **[View IISE Conference Research Paper](projects/3_Operating_Room_Optimization/Paper__IISE%20regional%20conference%20UG%20paper%20competition%5B2902%5D.pdf)**
+### 3. Operating Room Optimization (Award-Winning Research)
+*As team lead for the "Si-MU-lation" team, I directed a 6-person team in a research project that improved OR utilization by 26%. We implemented a custom scheduling algorithm in FlexSim, balancing efficiency with ethical constraints like staff overtime.*
+
+*This work was recognized with multiple awards:*
+* *Presented at the IISE 2023 Annual Conference.*
+* ***3rd place** in the IISE regional technical paper competition.*
+* ***2nd place** in the engineering research poster competition.*
+
+▶ **[View IISE Conference Research Paper](projects/3_Operating_Room_Optimization/Paper__IISE%20regional%20conference%20UG%20paper%20competition%5B2902%5D.pdf)**
 
 ### 4. Supply Chain Anomaly Detection for Product Backorders
-*This project tackles the critical business problem of predicting product backorders to reduce stock-outs and improve customer satisfaction. I developed and benchmarked three unique machine learning pipelines to identify the optimal model. The best-performing pipeline (Isolation Forest → PCA → RandomForest) achieved **82% overall accuracy** and caught **74% of all backorders** on unseen data, enabling a shift from reactive firefighting to proactive inventory planning.*
+*This project tackled the critical business problem of predicting product backorders to reduce stock-outs and improve customer satisfaction. I developed and benchmarked three unique machine learning pipelines to identify the optimal model. The best-performing pipeline (Isolation Forest → PCA → RandomForest) achieved **82% overall accuracy** and caught **74% of all backorders** on unseen data, enabling a shift from reactive firefighting to proactive inventory planning.*
 <br>▶ **[View the Final Evaluation Notebook](projects/4_Machine_Learning%20(Anomaly%20Detection)/Notebook__3_Evaluation.ipynb)**
 
-### 5. EMR Nurse Workload & Burnout Analysis
-*Conducted a statistical analysis of EMR log data from an ICU to investigate nurse workload distribution. Using a Chi-Square goodness-of-fit test, this research proved that EMR task frequency was not uniform among nurses (p-value < 0.05), providing a data-driven basis for tailoring resource allocation to reduce nurse burnout.*
+### 5. EMR Nurse Workload & Burnout Analysis (Award-Winning Research)
+*As an undergraduate researcher, I analyzed a large EMR dataset in R to investigate the distribution of nurse workload in an ICU. Using a Chi-Square goodness-of-fit test, I proved that EMR task frequency was not uniform among nurses, providing a data-driven basis for tailoring resource allocation to reduce burnout. This research placed **3rd and 4th** in the 2022 Spring and Fall engineering research poster competitions, respectively.*
 <br>▶ **[View Full Research Paper](projects/5_EMR_Nurse_Workload_Analysis/Report__Nurse%20Task%20Duration%20Analysis.pdf)**
 
 ### 6. Restaurant Process Improvement & Simulation
@@ -50,5 +54,5 @@ Industrial Engineer with a Master's in Data Science, specializing in applying si
 <br>▶ **[View Full Project Report PDF](projects/6_Restaurant_Process_Improvement/Report__Process%20Improvement.pdf)**
 
 ### 7. Community Dental Health Survey Analysis
-*A research project conducted at the Thompson Center for Autism to identify barriers to dental care for children with neurodevelopmental disabilities. This two-phase study involved collecting preliminary data from 800 patients via intake forms, followed by designing and distributing a 47-question caregiver survey using REDCap. The analysis highlighted key barriers such as financial constraints, appointment availability, and behavioral challenges, providing actionable insights for the clinic to enhance patient care and health outcomes.*
-<br>▶ **[View Project Poster](projects/7_Dental_Health_Survey_Analysis/Poster__Dental%20Project.pdf)**
+*As a Data Analyst for the Thompson Center for Autism, I analyzed over 200 dental surveys using REDCap to identify barriers to care for children with neurodevelopmental disabilities. The findings from this research were prepared for presentation at the 2025 AACPDM Annual Meeting.*
+<br>▶ **[View Project Poster](projects/7_Dental_Health_Survey_Analysis/Poster__Dental_Project.pdf)**
