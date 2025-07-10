@@ -19,7 +19,7 @@ Industrial Engineer with a Master's in Data Science, specializing in applying si
 
 ## Portfolio Projects
 
-### 1. Turnaround Time Managment (Awarded Cronin Award Finalist)
+### 1. Turnaround Time Managment (Cronin Award Finalist)
 *As a Data Analyst for the State of Missouri, I spearheaded a data-driven initiative to improve procurement operations. This project earned **4th place in a national showcase** (NASPO Cronin Award Finalist) and was featured on LinkedIn by Governor Parson.*
 
 *I designed and deployed a new turnaround time management process using Smartsheet for project management and Tableau for real-time dashboards. This system transformed the division by centralizing project tracking and providing data-driven insights, leading to a **10.6% improvement in procurement turnaround times** and a **73% reduction in administrative time**.*
