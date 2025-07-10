@@ -45,7 +45,8 @@ Industrial Engineer with a Master's in Data Science, specializing in applying si
 ▶ **[View IISE Conference Research Paper](projects/3_Operating_Room_Optimization/Paper__IISE%20regional%20conference%20UG%20paper%20competition%5B2902%5D.pdf)**
 
 ### 4. Supply Chain Anomaly Detection for Product Backorders
-*This project tackled the critical business problem of predicting product backorders to reduce stock-outs and improve customer satisfaction. I developed and benchmarked three unique machine learning pipelines to identify the optimal model. The best-performing pipeline (Isolation Forest → PCA → RandomForest) achieved **82% overall accuracy** and caught **74% of all backorders** on unseen data, enabling a shift from reactive firefighting to proactive inventory planning.*
+*This project tackled the critical business problem of predicting product backorders to reduce stock-outs and improve customer satisfaction. I developed and benchmarked three unique machine learning pipelines to identify the optimal model. 
+The best-performing pipeline (Isolation Forest → PCA → RandomForest) achieved **82% overall accuracy** and caught **74% of all backorders** on unseen data, enabling a shift from reactive firefighting to proactive inventory planning.*
 
 <br>▶ **[View Project Summary PDF](projects/4_Machine_Learning%20(Anomaly%20Detection)/Summary__Anomaly%20Detection%20for%20Product%20Backorder%20Prediction.pdf)**
 
