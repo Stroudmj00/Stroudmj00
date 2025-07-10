@@ -35,7 +35,7 @@ Industrial Engineer with a Master's in Data Science, specializing in applying si
 
 
 ### 3. Operating Room Optimization (Award-Winning Research)
-*As team lead for the "Si-MU-lation" team, I directed a 6-person team in a research project that improved OR utilization by 26%. We implemented a custom scheduling algorithm in FlexSim, balancing efficiency with ethical constraints like staff overtime.*
+*As team lead for the "Si-MU-lation" team, I directed a 6-person team in a research project to configure operating room schedules. We improved OR utilization by 26% by implementing a custom scheduling algorithm in FlexSim, balancing efficiency with ethical constraints like staff overtime.*
 
 *This work was recognized with multiple awards:*
 * *Presented at the IISE 2023 Annual Conference.*
