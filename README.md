@@ -4,7 +4,7 @@ Industrial Engineer with a Master's in Data Science, specializing in applying si
 
 - **Email:** Stroudmj014@gmail.com
 - **Phone:** (573) 825-0907
-- **LinkedIn:** [Link](https://www.linkedin.com/in/michaelstroud014/)
+- **LinkedIn:** [https://www.linkedin.com/in/michaelstroud014/](https://www.linkedin.com/in/michaelstroud014/)
 
 ---
 
