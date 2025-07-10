@@ -28,7 +28,7 @@ Industrial Engineer with a Master's in Data Science, specializing in applying si
 <br>▶ **[View the Official Case Study PDF](projects/1_State_Of_Missouri_Cronin_Award/Cronin_Award_Case_Study.pdf)**
 <br>▶ **[View Recognition from the Govonor of Missouri](projects/1_State_Of_Missouri_Cronin_Award/Cronin_Award_Governors_Recognition.png)**
 
-### 2. Healthcare Patient Flow Simulation (Industrial Engineering Capstone Project )
+### 2. Healthcare Patient Flow Simulation (Awarded Best Industrial Engineering Capstone Project)
 *As a capstone team lead, I engineered a predictive Simio model that forecasted Emergency Room bed shortages for University of Missouri Health Care. This high-fidelity simulation served as a low-cost, low-risk tool for executives to test high-stakes strategic decisions. This work was recognized as the **Best 2023 ISE Capstone Project**.*
 <br>▶ **[View Project Feature Article](https://engineering.missouri.edu/2023/industrial-engineering-students-optimize-healthcare-systems-for-capstone-project/)**
 <br>▶ **[View Full Presentation PDF](projects/2_Healthcare_Patient_Flow_Simulation/Presentation__MUHC%20Throughput%20Simulation.pdf)**
