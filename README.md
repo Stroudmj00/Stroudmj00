@@ -11,7 +11,7 @@ Stroudmj014@gmail.com
 
 ### Core Competencies & Skills
 
-* **Operations Research:** Discrete-Event Simulation (Simio, FlexSim), Mathematical Optimization, Queuing Theory, Supply Chain Logistics
+* **Operations Research:** Discrete-Event Simulation (Simio, FlexSim), Mathematical Optimization, Queuing Theory, Statistics
 * **Process Improvement:** Lean Six Sigma (DMAIC), Root Cause Analysis, Business Process Management
 * **Data Science & ML:**
     * **Methodology:** Exploratory Data Analysis (EDA), Feature Engineering, Model Validation (Cross-Validation), Statistical Inference
