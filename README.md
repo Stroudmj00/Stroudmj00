@@ -31,8 +31,8 @@ Industrial Engineer with a Master's in Data Science, specializing in applying si
 ### 2. Healthcare Patient Flow Simulation (Best Industrial Systems Engineering Capstone Project Award)
 *As a capstone team lead, I engineered a predictive Simio model that forecasted Emergency Room bed shortages for University of Missouri Health Care. This high-fidelity simulation served as a low-cost, low-risk tool for executives to test high-stakes strategic decisions. This work was recognized as the **Best 2023 ISE Capstone Project**.*
 <br>▶ **[View Full Presentation PDF](projects/2_Healthcare_Patient_Flow_Simulation/Presentation__MUHC%20Throughput%20Simulation.pdf)**
-<br>▶ **[View Summary]((https://engineering.missouri.edu/2023/industrial-engineering-students-optimize-healthcare-systems-for-capstone-project/)**
-[Text you want to display](URL)
+<br>▶ **[View Summary]([URL](https://engineering.missouri.edu/2023/industrial-engineering-students-optimize-healthcare-systems-for-capstone-project/))**
+
 ### 3. Operating Room Optimization (Award-Winning Research)
 *As team lead for the "Si-MU-lation" team, I directed a 6-person team in a research project that improved OR utilization by 26%. We implemented a custom scheduling algorithm in FlexSim, balancing efficiency with ethical constraints like staff overtime.*
 
