@@ -56,6 +56,6 @@ Industrial Engineer with a Master's in Data Science, specializing in applying si
 *A full-scale analysis of a Panchero's restaurant using Lean principles, line balancing, and Simio simulation to identify bottlenecks and provide recommendations to improve throughput and profitability.*
 <br>▶ **[View Full Project Report PDF](projects/6_Restaurant_Process_Improvement/Report__Process%20Improvement.pdf)**
 
-### 7. Community Dental Health Survey Analysis
+### 7. Healthcare Survey Analysis
 *As a Data Analyst for the Thompson Center for Autism, I analyzed over 200 dental surveys using REDCap to identify barriers to care for children with neurodevelopmental disabilities. The findings from this research were prepared for presentation at the 2025 AACPDM Annual Meeting.*
-<br>▶ **[View Project Poster](projects/7_Dental_Health_Survey_Analysis/Poster__Dental_Project.pdf)**
+<br>▶ **[View Project Poster](projects/7_Dental_Health_Survey_Analysis/Poster__Dental Project.pdf)**
