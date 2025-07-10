@@ -25,7 +25,8 @@ Industrial Engineer with a Master's in Data Science, specializing in applying si
 *I designed and deployed a new turnaround time management process using Smartsheet for project management and Tableau for real-time dashboards. This system transformed the division by centralizing project tracking and providing data-driven insights, leading to a **10.6% improvement in procurement turnaround times** and a **73% reduction in administrative time**.*
 
 ▶ **[View the NASPO Conference Presentation PDF](projects/1_State_Of_Missouri_Cronin_Award/Cronin_Award_NASPO_Presentation.pdf)**
-<br>▶ **[View the Official Case Study PDF](projects/1_State_Of_Missouri_Cronin_Award/Paper__Operational%20Improvement%20Through%20Turnaround%20Time%20Management.pdf)**
+<br>▶ **[View the Official Case Study PDF](projects/1_State_Of_Missouri_Cronin_Award/Cronin_Award_Case_Study.pdf)**
+<br>▶ **[View Recognition from the Govonor of Missouri](projects/1_State_Of_Missouri_Cronin_Award/Cronin_Award_Governors_Recognition.png)**
 
 ### 2. Healthcare Patient Flow Simulation (Best ISE Capstone)
 *As a capstone team lead, I engineered a predictive Simio model that forecasted Emergency Room bed shortages for University of Missouri Health Care. This high-fidelity simulation served as a low-cost, low-risk tool for executives to test high-stakes strategic decisions. This work was recognized as the **Best 2023 ISE Capstone Project**.*
