@@ -2,9 +2,9 @@
 
 Industrial Engineer with a Master's in Data Science, specializing in applying simulation, optimization, and data-driven process improvement to solve complex operational challenges. My work focuses on leveraging data to drive efficiency and enhance decision-making in government and healthcare.
 
-- **Email:** `Stroudmj014@gmail.com`
-- **Phone:** `(573) 825-0907`
-- **LinkedIn:** [Michael Stroud](https://www.linkedin.com/in/michaelstroud014/)
+- **Email:** Stroudmj014@gmail.com
+- **Phone:** (573) 825-0907
+- **LinkedIn:** [Link](https://www.linkedin.com/in/michaelstroud014/)
 
 ---
 
