@@ -46,7 +46,8 @@ Industrial Engineer with a Master's in Data Science, specializing in applying si
 
 ### 4. Supply Chain Anomaly Detection for Product Backorders
 *This project tackled the critical business problem of predicting product backorders to reduce stock-outs and improve customer satisfaction. I developed and benchmarked three unique machine learning pipelines to identify the optimal model. The best-performing pipeline (Isolation Forest → PCA → RandomForest) achieved **82% overall accuracy** and caught **74% of all backorders** on unseen data, enabling a shift from reactive firefighting to proactive inventory planning.*
-<br>▶ **[View the Final Evaluation Notebook](projects/4_Machine_Learning%20(Anomaly%20Detection)/Notebook__3_Evaluation.ipynb)**
+
+<br>▶ **[View Project Summary PDF](projects/4_Machine_Learning%20(Anomaly%20Detection)/Summary__Anomaly%20Detection%20for%20Product%20Backorder%20Prediction.pdf)**
 
 ### 5. EMR Nurse Workload & Burnout Analysis (Award-Winning Research)
 *As an undergraduate researcher, I analyzed a large EMR dataset in R to investigate the distribution of nurse workload in an ICU. Using a Chi-Square goodness-of-fit test, I proved that EMR task frequency was not uniform among nurses, providing a data-driven basis for tailoring resource allocation to reduce burnout. This research placed **3rd and 4th** in the 2022 Spring and Fall engineering research poster competitions, respectively.*
