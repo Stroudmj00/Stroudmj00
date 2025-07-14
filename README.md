@@ -23,7 +23,7 @@ Stroudmj014@gmail.com | [LinkedIn](https://www.linkedin.com/in/michaelstroud014/
 ### [1. State of Missouri Procurement Improvement](./projects/1_State_of_Missouri_Procurement_Improvement/)
 *Developed a data-driven performance management framework that earned a **2024 George Cronin Award Finalist** recognition. This system drove a **78% reduction in overdue bids** by implementing a Statistical Process Control (SPC) framework and BI dashboards.*
 <br>
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Smartsheet](https://img.shields.io/badge/Smartsheet-2775C8?style=for-the-badge&logo=smartsheet&logoColor=white) ![Tableau Prep](https://img.shields.io/badge/Tableau_Prep-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  ![Tableau Prep](https://img.shields.io/badge/Tableau_Prep-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Smartsheet](https://img.shields.io/badge/Smartsheet-2775C8?style=for-the-badge&logo=smartsheet&logoColor=white)
 
 ### [2. MUHC Patient Flow Simulation (Best Engineering Capstone)](./projects/2_MUHC_Patient_Flow_Simulation/)
 *Led an award-winning capstone team to engineer a predictive simulation model to forecast ER bed shortages. The model provides hospital executives with a low-cost, low-risk tool to test high-stakes operational strategies and was named the **Best 2023 Engineering Capstone Project**.*
