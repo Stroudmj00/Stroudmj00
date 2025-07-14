@@ -23,7 +23,7 @@ Our team built a comprehensive simulation of the hospital by analyzing a dataset
 
 1.  **Stochastic Modeling:** We used statistical analysis to fit distributions for key variables like patient arrival rates and length of stay, ensuring the model accurately reflected real-world variability.
 2.  **Advanced Routing Logic:** A key innovation was the development of a **4-dimensional Markov chain** to handle complex patient routing. This logic directed simulated patients based on their current unit, next destination, point of origin, and path history, creating a highly realistic flow.
-3.  **Validation:** The model's outputs, such as the daily hospital census, were rigorously validated against historical data to confirm the model's accuracy and reliability as a predictive tool.
+3.  **Validation:** The model's outputs, such as the daily hospital census, were compared against historical data to confirm the model's accuracy and reliability as a predictive tool.
 
 ---
 
