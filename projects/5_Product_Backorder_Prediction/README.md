@@ -1,31 +1,29 @@
-# Predicting Product Backorders with Anomaly Detection
+# Product Backorder Prediction
 
-### Project Highlights
+### Project Summary
 
-* **Challenge:** Analyzed a large-scale dataset of ~1.9 million product observations to proactively predict which items are at risk of going on backorder. The goal was to reduce costly stock-outs and improve customer satisfaction.
-* **Methodology:** Developed and benchmarked three unique machine learning pipelines. The optimal model uses **Isolation Forest** for outlier detection, **Principal Component Analysis (PCA)** for dimensionality reduction, and a **Random Forest** for classification.
-* **Results:** The final model successfully identifies **74% of all true backorders** (Recall) on unseen data with an **82% overall accuracy**, enabling a shift from reactive to proactive inventory management.
+This project addresses the critical business problem of predicting product backorders to reduce stock-outs and improve customer satisfaction. By analyzing a large-scale dataset of ~1.9 million product observations, I developed and benchmarked three unique machine learning pipelines to identify the optimal predictive model.
 
----
-
-### The Winning Pipeline
-
-The best-performing model was a three-step pipeline that systematically processes the data to make a prediction:
-
-1.  **Anomaly Detection (`IsolationForest`):** First, outliers (2% of the data) were removed from the training set. This creates a cleaner dataset, leading to a more robust and reliable classification model.
-2.  **Dimensionality Reduction (`PCA`):** The initial 22 predictor variables were scaled and then condensed into 15 principal components, capturing the most important information while increasing training speed and efficiency.
-3.  **Classification (`RandomForest`):** An ensemble of 400 decision trees (with a max depth of 20) was trained on the pre-processed data to vote on the final backorder risk for each product.
+The final model successfully identifies **74% of all true backorders** (Recall) on unseen data with an **82% overall accuracy**. This system enables a shift from reactive firefighting to proactive inventory planning, with a potential for over **$600,000 in annual cost savings**.
 
 ---
 
-### Business Impact
+### Technical Stack & Methodology
 
-This predictive system allows inventory planners to shift from **reactive firefighting** to **proactive planning.** Instead of manually monitoring all SKUs, planners can focus on a targeted list of at-risk items flagged by the model. By catching 74% of all backorders before they happen, this system has the potential to generate over **$600,000 in annual cost savings** while significantly improving customer loyalty.
+* **Language & Libraries:** Python (Pandas, Scikit-learn, NumPy, Joblib)
+* **Core Methodologies:** Classification, Anomaly Detection (Isolation Forest), Dimensionality Reduction (PCA), Hyperparameter Tuning (GridSearchCV)
+
+The winning pipeline systematically processes the data to make a prediction:
+
+1.  **Anomaly Detection (`IsolationForest`):** Outliers are removed from the training set to create a cleaner, more robust dataset.
+2.  **Dimensionality Reduction (`PCA`):** The 22 predictor variables are condensed into 15 principal components to increase training efficiency.
+3.  **Classification (`RandomForest`):** An optimized Random Forest Classifier (400 trees, max depth 20) votes on the final backorder risk for each product.
 
 ---
 
-### Files in This Directory
+### Project Notebooks
 
-* `Anomaly Detection-Preprocessing.ipynb`: The Jupyter Notebook covering all data loading, cleaning, and sampling steps.
-* `Anomaly Detection-Model Development.ipynb`: The Jupyter Notebook where three distinct pipelines were built, tuned, and compared.
-* `Anomaly Detection-Evaluation.ipynb`: The Jupyter Notebook used for the final, unbiased evaluation of the winning model against a true test set.
+* `Backorder_Prediction_Summary.pdf`: A one-page PDF summary of the project.
+* `Backorder_Prediction_Preprocessing.ipynb`: Jupyter Notebook covering all data loading, cleaning, and sampling steps.
+* `Backorder_Prediction_Model_Development.ipynb`: Jupyter Notebook where three distinct pipelines were built, tuned, and compared.
+* `Backorder_Prediction_Evaluation.ipynb`: Jupyter Notebook for the final, unbiased evaluation of the winning model against a true test set.

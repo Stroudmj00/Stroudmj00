@@ -1,36 +1,33 @@
-# Procurement Process Control and Business Intelligence
+# Healthcare Patient Flow Simulation
 
 ### Project Highlights
 
-* [cite_start]**Challenge:** The Missouri Division of Purchasing's manual, Excel-based bid tracking was slow and unmanageable. [cite: 15] [cite_start]This made it difficult to analyze performance, identify bottlenecks, or reduce procurement turnaround times. [cite: 12]
-* [cite_start]**My Role:** As a data analyst with an industrial engineering background, I was a critical team member brought in to help develop and implement a new data-driven system using modern software. [cite: 26, 27, 28, 31]
-* [cite_start]**Outcome:** The new system transformed the division's operations, earning a **2024 George Cronin Award Finalist** recognition from the National Association of State Procurement Officials (NASPO) and praise from the Governor of Missouri. [cite: 2]
+* **Outcome:** Engineered a predictive simulation model that earned the **Best 2023 Industrial & Systems Engineering Capstone Project** award.
+* **Impact:** Provided University of Missouri Health Care executives with a low-cost, low-risk tool to forecast ER bed shortages and test high-stakes operational strategies.
+* **My Role:** As team lead, I directed the project from data analysis to final model development, including designing the complex patient routing logic.
+* **Challenge:** To create a validated digital twin of the hospital's patient flow to support strategic planning for a projected 5-10% growth in patient volume.
 
 ---
 
-### The Solution: A Turnaround Time Management Framework
+### Technical Snapshot
 
-[cite_start]We replaced the outdated process with a new framework built on the **DMAIC** (Define, Measure, Analyze, Improve, Control) process improvement cycle. [cite: 36]
-
-1.  [cite_start]**Data Capture (Smartsheet):** A cloud-based spreadsheet was used to create a central worklog, capturing real-time data for every stage of the procurement process. [cite: 21, 131]
-2.  [cite_start]**Analysis & Visualization (Tableau):** We developed operational dashboards in Tableau to display key metrics and provide at-a-glance status updates. [cite: 22, 1613]
-3.  [cite_start]**Performance Management (Color-Coding):** A key innovation was a **color-coded system (Green, Yellow, Red)** that automatically flagged procurements based on their performance against established time goals. [cite: 85, 90, 104] [cite_start]This provided instant visual feedback and inspired a positive, competitive culture to "Say NO to Tableau Reds." [cite: 143]
+* **Primary Tool:** Simio (Discrete-Event Simulation), SQL
+* **Analysis Tools:**  R, NCSS, Excel (Pivot Tables)
+* **Core Methodologies:** Statistical Distribution Fitting, Data Validation, 4-Dimensional Markov Chain (for patient routing)
 
 ---
 
-### Key Results & Impact
+### Model Development & Methodology
 
-* **78% Reduction in Overdue Bids:** Decreased the number of "Tableau Red" bids from **36 to 8** over a 9-month period.
-* [cite_start]**31.4% Faster Turnaround:** Reduced the 3-month rolling average turnaround time for a key bid type (RFP < $250k). [cite: 1545]
-* [cite_start]**Enhanced Communication:** The new dashboards provided clear, up-to-date data that was used to communicate progress and improvements to stakeholders, including the state legislature. [cite: 13, 148]
-* [cite_start]**National Recognition:** The project was a finalist for the prestigious **2024 George Cronin Award for Procurement Excellence**. [cite: 2]
+Our team built a comprehensive simulation of the hospital by analyzing a dataset of over 87,000 real patient encounters.
+
+1.  **Stochastic Modeling:** We used statistical analysis to fit distributions for key variables like patient arrival rates and length of stay, ensuring the model accurately reflected real-world variability.
+2.  **Advanced Routing Logic:** A key innovation was the development of a **4-dimensional Markov chain** to handle complex patient routing. This logic directed simulated patients based on their current unit, next destination, point of origin, and path history, creating a highly realistic flow.
+3.  **Validation:** The model's outputs, such as the daily hospital census, were rigorously validated against historical data to confirm the model's accuracy and reliability as a predictive tool.
 
 ---
 
-### Files in This Directory
+### Project Artifacts
 
-* `Procurement_Case_Study_(Cronin_Award).pdf`: The official case study published by NASPO.
-* `Procurement_Improvement_Paper.pdf`: The detailed paper submitted for the award.
-* `Procurement_Presentation_(NASPO_Annual).pdf`: The slide deck presented at the NASPO Annual conference.
-* `Procurement_Recognition_Governor.png`: A screenshot of the project recognition from the Governor of Missouri.
-* `Procurement_Results_Chart.png`: A chart showing the reduction in "Tableau Red" bids over time.
+* `MUHC_Patient_Flow_Simulation_Report.pdf`: The final capstone report detailing the project methodology and findings.
+* `MUHC_Patient_Flow_Simulation_Presentation.pdf`: The slide deck presented for the capstone project.
