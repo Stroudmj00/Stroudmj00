@@ -1,8 +1,7 @@
+<p align="center">
 # Michael Stroud
 **Healthcare Data Scientist & Industrial Engineer**
-
-<p align="center">
-  Stroudmj014@gmail.com | <a href="https://www.linkedin.com/in/michaelstroud014/">LinkedIn</a>
+Stroudmj014@gmail.com | <a href="https://www.linkedin.com/in/michaelstroud014/">LinkedIn</a>
 </p>
 
 ---
