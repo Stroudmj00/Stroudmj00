@@ -23,7 +23,7 @@ Stroudmj014@gmail.com | [LinkedIn](https://www.linkedin.com/in/michaelstroud014/
 ### [1. State of Missouri Procurement Improvement](./projects/1_State_of_Missouri_Procurement_Improvement/)
 *Developed a data-driven performance management framework that earned a **2024 George Cronin Award Finalist** recognition. This system drove a **78% reduction in overdue bids** by implementing a Statistical Process Control (SPC) framework and BI dashboards.*
 <br>
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Smartsheet](https://img.shields.io/badge/Smartsheet-2775C8?style=for-the-badge&logo=smartsheet&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Smartsheet](https://img.shields.io/badge/Smartsheet-2775C8?style=for-the-badge&logo=smartsheet&logoColor=white) ![Tableau Prep](https://img.shields.io/badge/Tableau_Prep-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### [2. MUHC Patient Flow Simulation (Best Engineering Capstone)](./projects/2_MUHC_Patient_Flow_Simulation/)
 *Led an award-winning capstone team to engineer a predictive simulation model to forecast ER bed shortages. The model provides hospital executives with a low-cost, low-risk tool to test high-stakes operational strategies and was named the **Best 2023 Engineering Capstone Project**.*
@@ -53,7 +53,7 @@ Stroudmj014@gmail.com | [LinkedIn](https://www.linkedin.com/in/michaelstroud014/
 ### [7. MUHC ICU Dashboard (Nexus Conference)](./projects/7_MUHC_ICU_Dashboard/)
 *Presented at the Nexus Informatics Conference, this project involved developing an **R Shiny dashboard** to process, analyze, and visualize massive EMR log datasets. The tool provides a framework for monitoring nurse EMR usage patterns and identifying workload trends.*
 <br>
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![R Shiny](https://img.shields.io/badge/Shiny-1175B8?style=for-the-badge&logo=rstudio&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![R Shiny](https://img.shields.io/badge/Shiny-1175B8?style=for-the-badge&logo=rstudio&logoColor=white) ![ggplot](https://img.shields.io/badge/REDCap-C00000?style=for-the-badge)
 
 ### [8. Thompson Center Survey Analysis](./projects/8_Thompson_Center_Survey_Analysis/)
 *As a data analyst for the Thompson Center for Autism, I used **REDCap** to collect and analyze survey data to identify barriers to dental care for children with neurodevelopmental disabilities. This research has been accepted for presentation at the **2025 AACPDM Annual Meeting.***
