@@ -12,7 +12,7 @@ Stroudmj014@gmail.com | [LinkedIn](https://www.linkedin.com/in/michaelstroud014/
 
 * **Healthcare Analytics:** Clinical Workload Analysis, Patient Flow Modeling, EMR/RTMS Data, R Shiny
 * **Operations Research:** Discrete-Event Simulation (Simio, FlexSim), Mathematical Optimization, Process Control (SPC)
-* **Data Science & ML:** Predictive Modeling (Random Forest, Gradient Boosting), Anomaly Detection (Isolation Forest), Dimensionality Reduction (PCA), Classification, Hypothesis Testing
+* **Data Science & ML:** Predictive Modeling, Anomaly Detection, Dimensionality Reduction (PCA), Classification, Hypothesis Testing
 * **BI & Data Viz:** Tableau, Power BI, Smartsheet
 * **Languages & Libraries:** Python (Pandas, Scikit-learn), R (dplyr, ggplot2), SQL
 
