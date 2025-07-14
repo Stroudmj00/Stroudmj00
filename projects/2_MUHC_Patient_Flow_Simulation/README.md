@@ -11,9 +11,9 @@
 
 ### Technical Snapshot
 
-* **Primary Tool:** Simio (Discrete-Event Simulation), SQL
-* **Analysis Tools:**  R, NCSS, Excel (Pivot Tables)
-* **Core Methodologies:** Statistical Distribution Fitting, Data Validation, 4-Dimensional Markov Chain (for patient routing)
+* **Primary Tool:** Simio (Discrete-Event Simulation)
+* **Analysis Tools:**  R, NCSS , SQL, Excel (Pivot Tables)
+* **Core Methodologies:** Statistical Distribution Fitting, Model Validation, 4-Dimensional Markov Chain (for patient routing)
 
 ---
 
