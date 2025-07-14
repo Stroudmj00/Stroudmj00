@@ -4,7 +4,7 @@
 
 A Healthcare Data Scientist and Industrial Engineer who bridges the gap between physical operations and digital intelligence. I apply machine learning and statistical analysis to diagnose systemic inefficiencies, then leverage simulation and mathematical optimization to design, test, and deploy robust, data-driven solutions. My work focuses on driving efficiency and enhancing decision-making in complex healthcare and government environments.
 
-[Stroudmj014@gmail.com] | [LinkedIn](https://www.linkedin.com/in/michaelstroud014/)
+Stroudmj014@gmail.com | [LinkedIn](https://www.linkedin.com/in/michaelstroud014/)
 
 ---
 
