@@ -6,8 +6,6 @@ Presented at the **Nexus Informatics Conference**, this project tackles the chal
 
 This tool provides a framework for researchers and hospital administrators to explore nurse activity patterns, identify workload trends, and investigate the sources of nurse burnout by analyzing millions of log records from a single 12-hour nursing shift.
 
----
-
 ### Methodology & Technical Stack
 
 * **Primary Tools:** R, R Shiny
@@ -15,7 +13,12 @@ This tool provides a framework for researchers and hospital administrators to ex
 
 The dashboard allows users to filter EMR data by individual nurses and visualize key performance indicators, such as the frequency and duration of specific tasks ("timernames"), through various plots and charts.
 
----
+### Key Features
+
+* **Interactive Filtering:** Users can select individual nurses to analyze their specific EMR usage patterns.
+* **Task Frequency Analysis:** The dashboard provides a "Top 10" list of the most frequent EMR tasks, allowing for a quick overview of a nurse's workload.
+* **Time-Series Visualization:** The duration of EMR tasks is plotted over time, enabling the identification of trends and peak workload periods.
+* **Data-Driven Insights:** The dashboard provides a quantitative basis for understanding the distribution of EMR workload among nurses, which can be used to inform staffing and resource allocation decisions.
 
 ### Project Artifacts
 
