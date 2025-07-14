@@ -56,6 +56,6 @@ Stroudmj014@gmail.com | [LinkedIn](https://www.linkedin.com/in/michaelstroud014/
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![R Shiny](https://img.shields.io/badge/Shiny-1175B8?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ### [8. Thompson Center Survey Analysis](./projects/8_Thompson_Center_Survey_Analysis/)
-*As a data analyst for the Thompson Center for Autism, I used **REDCap** to collect and analyze survey data to identify barriers to dental care for children with neurodevelopmental disabilities. This research has been accepted for presentation at the **2025 AACPDM Annual Meeting.***
+My analysis of survey data for the Thompson Center for Autism identified key barriers to dental care for children with neurodevelopmental disabilities, and the resulting research has been accepted for presentation at the 2025 AACPDM Annual Meeting.
 <br>
-![REDCap](https://img.shields.io/badge/REDCap-C00000?style=for-the-badge) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-F24E1E?style=for-the-badge&logo=plot.ly&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-F24E1E?style=for-the-badge&logo=plot.ly&logoColor=white)
