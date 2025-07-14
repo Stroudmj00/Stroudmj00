@@ -26,7 +26,6 @@ The winning pipeline systematically processes the data to make a prediction:
 
 ### Project Notebooks
 
-* `Backorder_Prediction_Summary.pdf`: A one-page PDF summary of the project.
 * `Backorder_Prediction_Preprocessing.ipynb`: Jupyter Notebook covering all data loading, cleaning, and sampling steps.
 * `Backorder_Prediction_Model_Development.ipynb`: Jupyter Notebook where three distinct pipelines were built, tuned, and compared.
 * `Backorder_Prediction_Evaluation.ipynb`: Jupyter Notebook for the final, unbiased evaluation of the winning model against a true test set.
