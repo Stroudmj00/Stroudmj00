@@ -8,7 +8,7 @@ Stroudmj014@gmail.com | [LinkedIn](https://www.linkedin.com/in/michaelstroud014/
 
 ---
 
-### Core Competencies
+## Core Competencies
 
 * **Healthcare Analytics:** Clinical Workload Analysis, Patient Flow Modeling, EMR/RTMS Data, R Shiny
 * **Operations Research:** Discrete-Event Simulation (Simio, FlexSim), Mathematical Optimization, Process Control (SPC)
@@ -17,8 +17,8 @@ Stroudmj014@gmail.com | [LinkedIn](https://www.linkedin.com/in/michaelstroud014/
 * **Languages & Libraries:** Python (Pandas, Scikit-learn), R (dplyr, ggplot2), SQL
 
 ---
-
-### Portfolio Projects
+---
+## Projects
 
 ### [1. State of Missouri Procurement Improvement](./projects/1_State_of_Missouri_Procurement_Improvement/)
 *Developed a data-driven performance management framework that earned a **2024 George Cronin Award Finalist** recognition. This system drove a **78% reduction in overdue bids** by implementing a Statistical Process Control (SPC) framework and BI dashboards.*
