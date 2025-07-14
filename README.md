@@ -53,7 +53,7 @@ Stroudmj014@gmail.com | [LinkedIn](https://www.linkedin.com/in/michaelstroud014/
 ### [7. MUHC ICU Dashboard (Nexus Conference)](./projects/7_MUHC_ICU_Dashboard/)
 *Presented at the Nexus Informatics Conference, this project involved developing an **R Shiny dashboard** to process, analyze, and visualize massive EMR log datasets. The tool provides a framework for monitoring nurse EMR usage patterns and identifying workload trends.*
 <br>
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![R Shiny](https://img.shields.io/badge/Shiny-1175B8?style=for-the-badge&logo=rstudio&logoColor=white) ![ggplot](https://img.shields.io/badge/REDCap-C00000?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![R Shiny](https://img.shields.io/badge/Shiny-1175B8?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ### [8. Thompson Center Survey Analysis](./projects/8_Thompson_Center_Survey_Analysis/)
 *As a data analyst for the Thompson Center for Autism, I used **REDCap** to collect and analyze survey data to identify barriers to dental care for children with neurodevelopmental disabilities. This research has been accepted for presentation at the **2025 AACPDM Annual Meeting.***
