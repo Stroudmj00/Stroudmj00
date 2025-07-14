@@ -35,7 +35,7 @@ Stroudmj014@gmail.com | [LinkedIn](https://www.linkedin.com/in/michaelstroud014/
 <br>
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Tableau Prep](https://img.shields.io/badge/Tableau_Prep-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 4. [IISE OR Simulation Competition (Award-Winning)] (./projects/4_IISE_OR_Simulation_Competition/)
+### [4. IISE OR Simulation Competition (Award-Winning)](./projects/4_IISE_OR_Simulation_Competition/)
 *This research project used a **Binary Search algorithm** to find the optimal balance between case scheduling and nurse staffing, achieving a **26% improvement in OR utilization** with zero median staff overtime. This work won **2nd place** in the poster competition and **3rd place** in the IISE regional technical paper competition.*
 <br>
 ![FlexSim](https://img.shields.io/badge/FlexSim-D92228?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,4 +59,3 @@ Stroudmj014@gmail.com | [LinkedIn](https://www.linkedin.com/in/michaelstroud014/
 *As a data analyst for the Thompson Center for Autism, I used **REDCap** to collect and analyze survey data to identify barriers to dental care for children with neurodevelopmental disabilities. This research has been accepted for presentation at the **2025 AACPDM Annual Meeting.***
 <br>
 ![REDCap](https://img.shields.io/badge/REDCap-C00000?style=for-the-badge) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-F24E1E?style=for-the-badge&logo=plot.ly&logoColor=white)
-<br>▶ [**View Project Details & Artifacts**]
