@@ -1,7 +1,7 @@
 <div align="center">
 
 # Michael Stroud
-**Healthcare Data Scientist & Industrial Engineer**
+Healthcare Data Scientist & Industrial Engineer
 
 stroudmj014@gmail.com
 <br>
