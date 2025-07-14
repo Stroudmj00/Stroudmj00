@@ -11,8 +11,8 @@ stroudmj014@gmail.com
 <a href="https://www.linkedin.com/in/michaelstroud014/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
-### About Me
 
+### About Me
 A Healthcare Data Scientist and Industrial Engineer who bridges the gap between physical operations and digital intelligence. I apply machine learning and statistical analysis to diagnose systemic inefficiencies, then leverage simulation and mathematical optimization to design, test, and deploy robust, data-driven solutions. My work focuses on driving efficiency and enhancing decision-making in complex healthcare and government environments.
 
 ---
