@@ -1,74 +1,61 @@
 # Michael Stroud
 
-**Industrial Engineer & Data Scientist**
+**Healthcare Data Scientist & Industrial Engineer**
 
-An Industrial Engineer and Data Scientist who bridges the gap between physical operations and digital intelligence. I apply machine learning and statistical analysis to diagnose systemic inefficiencies, then leverage simulation and mathematical optimization to design, test, and deploy robust, data-driven solutions. My work focuses on driving efficiency and enhancing decision-making in complex environments like government and healthcare.
+An Industrial Engineer and Data Scientist who bridges the gap between physical operations and digital intelligence. I apply machine learning and statistical analysis to diagnose systemic inefficiencies, then leverage simulation and mathematical optimization to design, test, and deploy robust, data-driven solutions. My work focuses on driving efficiency and enhancing decision-making in complex healthcare and government environments.
 
-Stroudmj014@gmail.com 
-<br>[LinkedIn](https://www.linkedin.com/in/michaelstroud014/)
+[Email](mailto:Stroudmj014@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michaelstroud014/)
 
 ---
 
-### Core Competencies & Skills
+### Core Competencies & Technical Stack
 
-* **Operations Research:** Discrete-Event Simulation (Simio, FlexSim), Mathematical Optimization, Queuing Theory, Control Charts
-* **Process Improvement:** Lean Six Sigma (DMAIC), Root Cause Analysis, Business Process Management
-* **Data Science & ML:**
-    * **Methodology:** Exploratory Data Analysis (EDA), Feature Engineering, Model Validation (Cross-Validation), Statistical Inference
-    * **Modeling:** Predictive Modeling (Regression, Gradient Boosting, Random Forest), Anomaly Detection (Isolation Forest), Dimensionality Reduction (PCA), Classification
-* **Data Analytics & BI:** Business Intelligence (Tableau, Power BI), KPI Dashboard Design, Data Storytelling, ETL
-* **Technical Stack:** Python (Pandas, Scikit-learn, NumPy), R (dplyr, ggplot2), SQL, Simio, FlexSim, Tableau, Power BI, Smartsheet
+* **Healthcare Analytics:** Clinical Workload Analysis, Patient Flow Modeling, EMR/RTMS Data, R Shiny
+* **Operations Research:** Discrete-Event Simulation (Simio, FlexSim), Mathematical Optimization, Process Control (SPC)
+* **Data Science & ML:** Predictive Modeling (Random Forest, Gradient Boosting), Anomaly Detection (Isolation Forest), Dimensionality Reduction (PCA), Classification, Hypothesis Testing
+* **BI & Data Viz:** Tableau, Power BI, Smartsheet
+* **Languages & Libraries:** Python (Pandas, Scikit-learn), R (dplyr, ggplot2), SQL
 
 ---
 
 ### Portfolio Projects
 
-### 1. Turnaround Time Management (Cronin Award Finalist)
-As a Data Analyst for the State of Missouri, I spearheaded a data-driven initiative to improve procurement operations. This project earned 4th place in a national showcase (NASPO Cronin Award Finalist) and was featured on LinkedIn by Governor Parson.
+### 1. [State of Missouri Procurement Improvement](./projects/1_State_of_Missouri_Procurement_Improvement/)
+*Developed a data-driven performance management framework that earned a **2024 George Cronin Award Finalist** recognition. This system drove a **78% reduction in overdue bids** by implementing a Statistical Process Control (SPC) framework and BI dashboards.*
+<br>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Smartsheet](https://img.shields.io/badge/Smartsheet-2775C8?style=for-the-badge&logo=smartsheet&logoColor=white)
 
-* **Analysis & Process Control:** Performed an initial analysis to identify the dominant factors impacting procurement duration: contract value and evaluation method. I used this to establish distinct project categories, each with a tailored turnaround time goal. To monitor the process, I implimented a 'Tableau Red' review framework which automatically flagging out-of-control projects for immediate review.
-* **BI & Performance Monitoring:** Designed and deployed a new turnaround time management process using Smartsheet for project management and Tableau for real-time BI dashboards. This system transformed the division by centralizing project tracking and providing data-driven insights, leading to a **10.6% improvement in procurement turnaround times** and a **73% reduction in administrative time.**
+### 2. [MUHC Patient Flow Simulation (Best IE Capstone)](./projects/2_MUHC_Patient_Flow_Simulation/)
+*Led an award-winning capstone team to engineer a predictive simulation model to forecast ER bed shortages. The model provides hospital executives with a low-cost, low-risk tool to test high-stakes operational strategies and was named the **Best 2023 ISE Capstone Project**.*
+<br>
+![Simio](https://img.shields.io/badge/Simio-87C341?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-▶ [View the NASPO Conference Presentation PDF](projects/1_State_Of_Missouri_Cronin_Award/Cronin_Award_NASPO_Presentation.pdf)
-<br>▶ [View the Official Case Study PDF](projects/1_State_Of_Missouri_Cronin_Award/Cronin_Award_Case_Study.pdf)
-<br>▶ [View Recognition from the Governor of Missouri](projects/1_State_Of_Missouri_Cronin_Award/Cronin_Award_Governors_Recognition.png)
+### 3. [State of Missouri Onboarding Analysis (Iron Viz Finalist)](./projects/3_State_of_Missouri_Onboarding_Analysis/)
+*As a finalist in the State of Missouri's Iron Viz competition, I analyzed employee onboarding survey data to prove that smaller team sizes are directly correlated with higher employee engagement and job satisfaction. This work was recognized as one of the top five submissions.*
+<br>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Tableau Prep](https://img.shields.io/badge/Tableau_Prep-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 2. Healthcare Patient Flow Simulation (Awarded Best Industrial Engineering Capstone Project)
-As a capstone team lead, I engineered a predictive Simio model that forecasted Emergency Room bed shortages for University of Missouri Health Care. This high-fidelity simulation served as a low-cost, low-risk tool for executives to test high-stakes strategic decisions. This work was recognized as the **Best 2023 ISE Capstone Project.**
+### 4. [IISE OR Simulation Competition (Award-Winning)](./projects/4_IISE_OR_Simulation_Competition/)
+*This research project used a **Binary Search algorithm** to find the optimal balance between case scheduling and nurse staffing, achieving a **26% improvement in OR utilization** with zero median staff overtime. This work won **2nd place** in the poster competition and **3rd place** in the IISE regional technical paper competition.*
+<br>
+![FlexSim](https://img.shields.io/badge/FlexSim-D92228?style=for-the-badge)
 
-* **Stochastic Modeling & Validation:** Modeled patient arrivals using an exponential distribution derived from historical data analysis. The model's inputs and outputs were rigorously validated against historical operational data to ensure predictive accuracy.
-* **Data Engineering & Routing Logic:** Executed a complex data transformation process to convert raw healthcare operational data into a Simio-compatible format. A key innovation was the development of a 4-dimensional Markov chain to handle complex patient routing logic, considering the patient's current location, next destination, point of origin, and path history.
+### 5. [Product Backorder Prediction](./projects/5_Product_Backorder_Prediction/)
+*Developed a machine learning pipeline to predict product backorders. The final model (Isolation Forest → PCA → Random Forest) successfully identifies **74% of all true backorders** on unseen data, enabling a shift from reactive firefighting to proactive inventory planning.*
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-▶ [View Project Feature Article](https://engineering.missouri.edu/2023/industrial-engineering-students-optimize-healthcare-systems-for-capstone-project/)
-<br>▶ [View Full Presentation PDF](projects/2_Healthcare_Patient_Flow_Simulation/Presentation__MUHC%20Throughput%20Simulation.pdf)
+### 6. [MUHC ICU Dashboard (Nexus Conference)](./projects/7_MUHC_ICU_Dashboard/)
+*Presented at the Nexus Informatics Conference, this project involved developing an **R Shiny dashboard** to process, analyze, and visualize massive EMR log datasets. The tool provides a framework for monitoring nurse EMR usage patterns and identifying workload trends.*
+<br>
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![R Shiny](https://img.shields.io/badge/Shiny-1175B8?style=for-the-badge&logo=rstudio&logoColor=white)
 
-### 3. Operating Room Optimization (Award-Winning Research)
-As team lead for the "Si-MU-lation" team, I directed a 6-person team in a research project to configure operating room schedules. We improved OR utilization by 26% by implementing a custom scheduling algorithm in FlexSim, balancing efficiency with ethical constraints like staff overtime. This work was recognized with multiple awards and presented at the IISE 2023 Annual Conference.
+### 7. [MUHC Clinical Workload Analysis (Award-Winning)](./projects/6_MUHC_Clinical_Workload_Analysis/)
+*This award-winning research used a **Chi-Square Goodness of Fit test** to analyze EMR log data, statistically proving that EMR workload is not uniformly distributed among ICU nurses. This work provides a data-driven basis for tailoring resource allocation to mitigate burnout.*
+<br>
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-▶ [View IISE Conference Research Paper](projects/3_Operating_Room_Optimization/Paper__IISE%20regional%20conference%20UG%20paper%20competition%5B2902%5D.pdf)
-
-### 4. Supply Chain Anomaly Detection for Product Backorders
-This project tackled the critical business problem of predicting product backorders to reduce stock-outs and improve customer satisfaction. I developed and benchmarked three unique machine learning pipelines to identify the optimal model. The best-performing pipeline (Isolation Forest → PCA → RandomForest) achieved **82% overall accuracy** and caught **74% of all backorders** on unseen data, enabling a shift from reactive firefighting to proactive inventory planning.
-
-▶ [View Project Summary PDF](projects/4_Machine_Learning%20(Anomaly%20Detection)/Summary__Anomaly%20Detection%20for%20Product%20Backorder%20Prediction.pdf)
-<br>▶ [View Preprocessing Jupyter Notebook](projects/4_Machine_Learning%20(Anomaly%20Detection)/Anomaly%20Detection-Preprocessing.ipynb)
-<br>▶ [View Model Development Jupyter Notebook](projects/4_Machine_Learning%20(Anomaly%20Detection)/Anomaly%20Detection-Model%20Development.ipynb)
-<br>▶ [View Evaluation Jupyter Notebook](projects/4_Machine_Learning%20(Anomaly%20Detection)/Anomaly%20Detection-Evaluation.ipynb)
-
-### 5. EMR Nurse Workload & Burnout Analysis (Award-Winning Research)
-As an undergraduate researcher, I analyzed a large EMR dataset from a Real-Time Measurement System (RTMS) to investigate the distribution of nurse workload in an ICU.
-
-* **Statistical Inference:** Using **R** with the **`dplyr`** package for data manipulation and analysis, I applied a Chi-Square goodness-of-fit test to the EMR task frequency data.
-* **Findings:** The analysis statistically proved that EMR task frequency was not uniform among nurses, rejecting the null hypothesis and providing a data-driven basis for tailoring resource allocation to mitigate nurse burnout. This research placed 3rd and 4th in engineering research poster competitions.
-
-▶ [View Full Research Paper](projects/5_EMR_Nurse_Workload_Analysis/Report__Nurse%20Task%20Duration%20Analysis.pdf)
-
-### 6. Restaurant Process Improvement & Simulation
-A full-scale analysis of a Panchero's restaurant using Lean principles, line balancing, and Simio simulation to identify bottlenecks and provide recommendations to improve throughput and profitability.
-
-▶ [View Full Project Report PDF](projects/6_Restaurant_Process_Improvement/Report__Process%20Improvement.pdf)
-
-### 7. Healthcare Survey Analysis
-As a Data Analyst for the Thompson Center for Autism, I analyzed over 200 dental surveys using REDCap to identify barriers to care for children with neurodevelopmental disabilities. The findings from this research were prepared for presentation at the 2025 AACPDM Annual Meeting.
-
-▶ [View Project Poster](projects/7_Dental_Health_Survey_Analysis/Poster__Dental%20Project.pdf)
+### 8. [Thompson Center Survey Analysis](./projects/8_Patient_Care_Survey_Analysis/)
+*As a data analyst for the Thompson Center for Autism, I used **REDCap** to collect and analyze survey data to identify barriers to dental care for children with neurodevelopmental disabilities. This research has been accepted for presentation at the **2025 AACPDM Annual Meeting.***
+<br>
+![REDCap](https://img.shields.io/badge/REDCap-C00000?style=for-the-badge)
