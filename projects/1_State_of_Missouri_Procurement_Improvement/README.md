@@ -1,4 +1,4 @@
-# State_of_Missouri_Procurement_Improvement
+# Procurement Improvement
 
 ### Project Highlights
 
