@@ -4,6 +4,8 @@
 
 As a finalist in the State of Missouri's 2024 Iron Viz competition, I analyzed employee onboarding survey data to answer a critical business question: **How does team size impact a new employee's experience?**
 
+### 📊 [Explore the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/michael.stroud6371/viz/MichaelStroudIronViz2024/IronVizDashboard?publish=yes)
+
 I developed a narrative-driven Tableau dashboard that told a clear story: smaller teams (1-5 members) are directly correlated with higher employee satisfaction, more effective leadership, and stronger team bonds. This work was selected by the state's Tableau Center of Excellence as one of the top five submissions based on its design, storytelling, and analytical depth.
 
 ---
