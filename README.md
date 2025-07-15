@@ -34,21 +34,21 @@ A Healthcare Data Scientist and Industrial Engineer who bridges the gap between 
 
 ---
 
-### [2. MUHC Patient Flow Simulation (Best Engineering Capstone)](./projects/2_MUHC_Patient_Flow_Simulation/)
+### [2. MUHC Patient Flow Simulation](./projects/2_MUHC_Patient_Flow_Simulation/)
 *Led an award-winning capstone team to engineer a predictive simulation model to forecast ER bed shortages. The model provides hospital executives with a low-cost, low-risk tool to test high-stakes operational strategies and was named the **Best 2023 Engineering Capstone Project**.*
 
 ![Simio](https://img.shields.io/badge/Simio-87C341?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-### [3. State of Missouri Onboarding Analysis (Iron Viz Finalist)](./projects/3_State_of_Missouri_Onboarding_Analysis/)
+### [3. State of Missouri Onboarding Analysis](./projects/3_State_of_Missouri_Onboarding_Analysis/)
 *As a finalist in the State of Missouri's Iron Viz competition, I analyzed employee onboarding survey data to prove that smaller team sizes are directly correlated with higher employee engagement and job satisfaction. This work was recognized as one of the top five submissions.*
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Tableau Prep](https://img.shields.io/badge/Tableau_Prep-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-### [4. IISE OR Simulation Competition (Award-Winning)](./projects/4_IISE_OR_Simulation_Competition/)
+### [4. IISE OR Simulation Competition](./projects/4_IISE_OR_Simulation_Competition/)
 *This research project used a **Binary Search algorithm** to find the optimal balance between case scheduling and nurse staffing, achieving a **26% improvement in OR utilization** with zero median staff overtime. This work won **2nd place** in the poster competition and **3rd place** in the IISE regional technical paper competition.*
 
 ![FlexSim](https://img.shields.io/badge/FlexSim-D92228?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,14 +62,14 @@ A Healthcare Data Scientist and Industrial Engineer who bridges the gap between 
 
 ---
 
-### [6. MUHC Clinical Workload Analysis (Award-Winning)](./projects/6_MUHC_Clinical_Workload_Analysis/)
+### [6. MUHC Clinical Workload Analysis](./projects/6_MUHC_Clinical_Workload_Analysis/)
 *This award-winning research used a **Chi-Square Goodness of Fit test** to analyze EMR log data, statistically proving that EMR workload is not uniformly distributed among ICU nurses. This work provides a data-driven basis for tailoring resource allocation to mitigate burnout.*
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
-### [7. MUHC ICU Dashboard (Nexus Conference)](./projects/7_MUHC_ICU_Dashboard/)
+### [7. MUHC ICU Dashboard](./projects/7_MUHC_ICU_Dashboard/)
 *Presented at the Nexus Informatics Conference, this project involved developing an **R Shiny dashboard** to process, analyze, and visualize massive EMR log datasets. The tool provides a framework for monitoring nurse EMR usage patterns and identifying workload trends.*
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![R Shiny](https://img.shields.io/badge/Shiny-1175B8?style=for-the-badge&logo=rstudio&logoColor=white)
