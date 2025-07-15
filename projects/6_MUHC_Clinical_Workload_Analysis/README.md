@@ -1,4 +1,4 @@
-# Clinical Workload Analysis Using EMR Data
+# Clinical Workload Analysis
 
 ### Project Summary
 
