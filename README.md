@@ -1,7 +1,7 @@
 <div align="center">
 
 # Michael Stroud
-Healthcare Data Scientist & Industrial Engineer
+Data Scientist & Industrial Engineer
 
 stroudmj014@gmail.com
 <br>
@@ -11,7 +11,7 @@ stroudmj014@gmail.com
 </div>
 
 ### About Me
-A Healthcare Data Scientist and Industrial Engineer who bridges the gap between physical operations and digital intelligence. I apply machine learning and statistical analysis to diagnose systemic inefficiencies, then leverage simulation and mathematical optimization to design, test, and deploy robust, data-driven solutions. My work focuses on driving efficiency and enhancing decision-making in complex healthcare and government environments.
+A Data Scientist and Industrial Engineer who bridges the gap between physical operations and digital intelligence. I apply machine learning and statistical analysis to diagnose systemic inefficiencies, then leverage simulation and mathematical optimization to design, test, and deploy robust, data-driven solutions. My work focuses on driving efficiency and enhancing decision-making in complex environments.
 
 ---
 
