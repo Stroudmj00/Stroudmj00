@@ -1,4 +1,4 @@
-# Operating Room Scheduling & Staffing Optimization
+# OR Simulation Competition
 
 ### Project Summary
 
