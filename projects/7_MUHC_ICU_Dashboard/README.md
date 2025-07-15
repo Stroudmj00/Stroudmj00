@@ -1,4 +1,4 @@
-# MUHC ICU Dashboard for EMR Log Data
+# MUHC ICU Dashboard
 
 ### Project Summary
 
