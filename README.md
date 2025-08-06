@@ -30,53 +30,53 @@ A Data Scientist and Industrial Engineer who bridges the gap between physical op
 ### [1. State of Missouri Procurement Improvement](./projects/1_State_of_Missouri_Procurement_Improvement/)
 *Developed a data-driven performance management framework that earned a **2024 George Cronin Award Finalist** recognition. This system drove a **78% reduction in overdue bids** by implementing a Process Control framework and BI dashboards.*
 
-'Tableau' 'Tableau Prep' 'Smartsheet'
+**Tools:** Tableau, Tableau Prep, Smartsheet
 
 ---
 
 ### [2. MUHC Patient Flow Simulation](./projects/2_MUHC_Patient_Flow_Simulation/)
 *Led an award-winning capstone team to engineer a predictive simulation model to forecast ER bed shortages. The model provides hospital executives with a low-cost, low-risk tool to test high-stakes operational strategies and was named the **Best 2023 Engineering Capstone Project**.*
 
-![Simio](https://img.shields.io/badge/Simio-87C341?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+**Tools:** Simio, SQL
 
 ---
 
 ### [3. State of Missouri Onboarding Analysis](./projects/3_State_of_Missouri_Onboarding_Analysis/)
 *As a finalist in the State of Missouri's Iron Viz competition, I analyzed employee onboarding survey data to prove that smaller team sizes are directly correlated with higher employee engagement and job satisfaction. This work was recognized as one of the top five submissions.*
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Tableau Prep](https://img.shields.io/badge/Tableau_Prep-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+**Tools:** Tableau, Tableau Prep
 
 ---
 
 ### [4. IISE OR Simulation Competition](./projects/4_IISE_OR_Simulation_Competition/)
 *This research project used a **Binary Search algorithm** to find the optimal balance between case scheduling and nurse staffing, achieving a **26% improvement in OR utilization** with zero median staff overtime. This work won **2nd place** in the poster competition and **3rd place** in the IISE regional technical paper competition.*
 
-![FlexSim](https://img.shields.io/badge/FlexSim-D92228?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Tools:** FlexSim, Python
 
 ---
 
 ### [5. Product Backorder Prediction](./projects/5_Product_Backorder_Prediction/)
 *Developed a machine learning pipeline to predict product backorders. The final model (Isolation Forest → PCA → Random Forest) successfully identifies **74% of all true backorders** on unseen data, enabling a shift from reactive to proactive inventory planning.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Tools:** Python, Scikit-learn
 
 ---
 
 ### [6. MUHC Clinical Workload Analysis](./projects/6_MUHC_Clinical_Workload_Analysis/)
 *This award-winning research used a **Chi-Square Goodness of Fit test** to analyze EMR log data, statistically proving that EMR workload is not uniformly distributed among ICU nurses. This work provides a data-driven basis for tailoring resource allocation to mitigate burnout.*
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+**Tools:** R
 
 ---
 
 ### [7. MUHC ICU Dashboard](./projects/7_MUHC_ICU_Dashboard/)
 *Presented at the Nexus Informatics Conference, this project involved developing an **R Shiny dashboard** to process, analyze, and visualize massive EMR log datasets. The tool provides a framework for monitoring nurse EMR usage patterns and identifying workload trends.*
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![R Shiny](https://img.shields.io/badge/Shiny-1175B8?style=for-the-badge&logo=rstudio&logoColor=white)
+**Tools:** R, R Shiny
 
 ---
 
 ### [8. Thompson Center Survey Analysis](./projects/8_Thompson_Center_Survey_Analysis/)
 *My analysis of survey data for the Thompson Center for Autism identified key barriers to dental care for children with neurodevelopmental disabilities, and the resulting research has been accepted for presentation at the **2025 AACPDM Annual Meeting.***
 
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-F24E1E?style=for-the-badge&logo=plot.ly&logoColor=white)
+**Tools:** Tableau, Tableau Prep, Smartsheet
