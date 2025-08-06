@@ -30,7 +30,7 @@ A Data Scientist and Industrial Engineer who bridges the gap between physical op
 ### [1. State of Missouri Procurement Improvement](./projects/1_State_of_Missouri_Procurement_Improvement/)
 *Developed a data-driven performance management framework that earned a **2024 George Cronin Award Finalist** recognition. This system drove a **78% reduction in overdue bids** by implementing a Process Control framework and BI dashboards.*
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Tableau Prep](https://img.shields.io/badge/Tableau_Prep-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Smartsheet](https://img.shields.io/badge/Smartsheet-2775C8?style=for-the-badge&logo=smartsheet&logoColor=white)
+'Tableau' 'Tableau Prep' 'Smartsheet'
 
 ---
 
