@@ -74,9 +74,3 @@ A Data Scientist and Industrial Engineer who bridges the gap between physical op
 
 **Tools:** R, R Shiny
 
----
-
-### [8. Thompson Center Survey Analysis](./projects/8_Thompson_Center_Survey_Analysis/)
-*My analysis of survey data for the Thompson Center for Autism identified key barriers to dental care for children with neurodevelopmental disabilities, and the resulting research has been accepted for presentation at the **2025 AACPDM Annual Meeting.***
-
-**Tools:** Tableau, Tableau Prep, Smartsheet
