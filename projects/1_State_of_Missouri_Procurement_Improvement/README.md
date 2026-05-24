@@ -1,37 +1,41 @@
 # Procurement Improvement
 
-### Project Highlights
+## Project Highlights
 
-* **Outcome:** Developed a data-driven performance management framework that earned a **2024 George Cronin Award Finalist** recognition from the National Association of State Procurement Officials (NASPO).
-* **Impact:** Drove a **78% reduction in overdue bids** and a **31.4% improvement in turnaround time** for a key bid category.
-* **My Role:** As a data analyst, I was a key team member responsible for implementing the software tools and developing the analytics that powered this operational transformation.
-* **Challenge:** To overhaul the Missouri Division of Purchasing's slow, manual bid-tracking process and create a system that enabled data-driven decision-making.
+- **Outcome:** Helped build a data-driven performance management framework for the Missouri Division of Purchasing that became a **2024 George Cronin Award Finalist** project through the National Association of State Procurement Officials (NASPO).
+- **Impact:** Documented Cronin project results include a **31.4% turnaround-time decrease** and a **62% reduction in procurements behind goal** for the measured bid category.
+- **My Role:** Implemented and supported the Smartsheet worklog, Tableau reporting, process-control views, data cleanup, and operating rhythm that made the improvement measurable and repeatable.
+- **Challenge:** Replace slow, manual bid tracking with a system that gave buyers and managers clearer status signals, earlier bottleneck detection, and a shared source of truth.
 
----
+## Technical Snapshot
 
-### Technical Snapshot
+- **Tools:** Tableau, Tableau Prep, Smartsheet, Excel
+- **Methods:** DMAIC, statistical process control, BI dashboards, operational workflow design, performance management
 
-* **Tools:** Tableau, Smartsheet
-* **Methodology:** DMAIC, Statistical Process Control (SPC), Business Intelligence (BI) Dashboards, Performance Management
+## Framework and Results
 
----
+The work moved procurement tracking from a static manual log toward an operational control system:
 
-### Framework and Results
+1. **Centralized Data with Smartsheet**
+   - Standardized bid tracking inputs, status logic, archive handling, and downstream reporting structure.
+   - Reduced manual ambiguity by replacing scattered status interpretation with clearer workflow fields.
 
-We replaced the outdated manual process with a new system built on the **DMAIC** (Define, Measure, Analyze, Improve, Control) cycle.
+2. **Visual Performance Tracking with Tableau**
+   - Built dashboard views that surfaced goal status, overdue work, turnaround-time trends, and management exceptions.
+   - Used color-coded control logic to make risk visible before a procurement became seriously late.
 
-1.  **Centralized Data with Smartsheet:** A central worklog was created to capture real-time data for every stage of the procurement process, replacing a cumbersome 40+ page Excel file. This move alone **cut administrative time by 73%**.
+3. **Operating Rhythm and Change Management**
+   - Supported adoption through documentation, user support, leadership reporting, and recurring review habits.
+   - Helped shift the process from reactive follow-up to data-informed management.
 
-2.  **Visual Performance Tracking with Tableau:** We built operational dashboards that provided at-a-glance status updates. A key innovation was a **color-coded system (Green, Yellow, Red)** that used SPC principles to automatically flag procurements based on their performance against time goals.
+## Project Artifacts
 
-3.  **Driving a Culture of Improvement:** This visual feedback loop was critical. It fostered a positive and competitive culture to "Say NO to Tableau Reds" and enabled managers to quickly identify and address bottlenecks. The new clarity and accountability were directly responsible for the significant reduction in overdue bids and faster turnaround times.
+- `Procurement_Case_Study_(Cronin_Award).pdf`: official case-study artifact.
+- `Procurement_Improvement_Paper.pdf`: detailed award submission paper.
+- `Procurement_Presentation_(NASPO_Annual).pdf`: NASPO Annual presentation deck.
+- `Procurement_Recognition_Governor.png`: public recognition screenshot.
+- `Procurement_Results_Chart.png`: chart showing reduction in behind-goal procurements.
 
----
+## Notes on Metrics
 
-### Project Artifacts
-
-* `Procurement_Case_Study_(Cronin_Award).pdf`: The official case study published by NASPO.
-* `Procurement_Improvement_Paper.pdf`: The detailed paper submitted for the award.
-* `Procurement_Presentation_(NASPO_Annual).pdf`: The slide deck presented at the NASPO Annual conference.
-* `Procurement_Recognition_Governor.png`: A screenshot of the project recognition from the Governor of Missouri.
-* `Procurement_Results_Chart.png`: A chart showing the reduction in "Tableau Red" bids over time.
+Older materials may describe related late-project or overdue-bid reductions with different percentages. For current public-facing summaries, use the Cronin-supported **31.4% turnaround-time decrease** and **62% reduction in procurements behind goal** unless a newer source is cited directly.
